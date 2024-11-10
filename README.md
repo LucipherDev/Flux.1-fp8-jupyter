@@ -2,7 +2,7 @@
 
 Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SumethSathnindu/Flux.1-jupyter/blob/main/Flux.1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SumethSathnindu/Flux.1-jupyter/blob/main/Flux.1-jupyter.ipynb)
 
 ## Features
 
