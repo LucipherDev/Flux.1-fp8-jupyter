@@ -2,6 +2,11 @@
 
 Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 
+* Txt2Img | Img2Img | Lora | All in one notebook
+* Works in Google Colab Free Teir T4 GPU 🥳🥳
+* Speed: 4-5 its/s >>> [dev - 20 steps = 1min  | schnell - 4 steps = 20sec] per image
+  
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SumethSathnindu/Flux.1-jupyter/blob/main/Flux.1-jupyter.ipynb)
 
 ## Features
