@@ -2,12 +2,14 @@
 
 Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 
-* Txt2Img | Img2Img | Lora | All in one notebook
+* Txt2Img | Img2Img | + Multiple Loras, All in one notebook
 * Works in Google Colab Free Teir T4 GPU 🥳🥳
 * Speed: 4-5 its/s >>> [dev - 20 steps ≈ 1min 40sec  | schnell - 4 steps ≈ 20sec] per image
-  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SumethSathnindu/Flux.1-jupyter/blob/main/Flux.1-jupyter.ipynb)
+
+## Todo
+- Add Support for ControlNet
 
 ## Features
 
@@ -22,9 +24,5 @@ Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 ![gif_compare](https://github.com/user-attachments/assets/33a7f8c4-d52b-4f0e-8d07-9e0e3833909c)
 
 ### Lora
-![ss3](https://github.com/user-attachments/assets/6d566aff-3c2b-4cb8-b68d-d90c5656c088)
-![example_output_2](https://github.com/user-attachments/assets/f8f02345-706c-4f71-9e11-3ef650e146c9)
-
-## Todo
-- Add Multiple Loras
-- Add Controlnet
+![Image20241111132441](https://github.com/user-attachments/assets/da5d0479-d97e-462c-96d3-5e78db46a89e)
+![example_3](https://github.com/user-attachments/assets/964b8913-0e61-4e33-9213-70bac7d0689c)
