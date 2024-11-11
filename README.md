@@ -23,6 +23,6 @@ Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 ![ss2](https://github.com/user-attachments/assets/8a7f9094-39a7-45f3-b30e-28369ca410c2)
 ![gif_compare](https://github.com/user-attachments/assets/33a7f8c4-d52b-4f0e-8d07-9e0e3833909c)
 
-### Lora
+### Support for Multiple Loras
 ![Image20241111132441](https://github.com/user-attachments/assets/da5d0479-d97e-462c-96d3-5e78db46a89e)
 ![example_3](https://github.com/user-attachments/assets/964b8913-0e61-4e33-9213-70bac7d0689c)
