@@ -8,9 +8,6 @@ Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SumethSathnindu/Flux.1-jupyter/blob/main/Flux.1-jupyter.ipynb)
 
-## Todo
-- Add Support for Upscaling with Model
-- Add Support for ControlNet - Currently doesn't seem to be possible with google colab free tier
 
 ## Features
 
@@ -20,8 +17,7 @@ Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 ![example_output_1](https://github.com/user-attachments/assets/c6f8ba79-63fc-4a27-bc7d-b0ed70dbda89)
 
 ### Img2Img
-
-![ss2](https://github.com/user-attachments/assets/8a7f9094-39a7-45f3-b30e-28369ca410c2)
+![ss2](https://github.com/user-attachments/assets/13994517-ffdd-4374-a82a-c955803a7e19)
 ![gif_compare](https://github.com/user-attachments/assets/33a7f8c4-d52b-4f0e-8d07-9e0e3833909c)
 
 ### Support for Multiple Loras
