@@ -2,7 +2,7 @@
 
 Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 
-* Txt2Img | Img2Img | + Multiple Loras, All in one notebook
+* Txt2Img | Img2Img | + Multiple LoRAs, All in one notebook
 * Works in Google Colab Free Teir T4 GPU 🥳🥳
 * Speed: 4-5 its/s >>> [dev - 20 steps ≈ 1min 40sec  | schnell - 4 steps ≈ 20sec] per image
 
@@ -20,6 +20,6 @@ Adapted from  @camenduru's https://github.com/camenduru/flux-jupyter
 ![ss2](https://github.com/user-attachments/assets/d086f6ab-dae6-4e76-a320-9219b27f7b7c)
 ![gif_compare](https://github.com/user-attachments/assets/33a7f8c4-d52b-4f0e-8d07-9e0e3833909c)
 
-### Support for Multiple Loras
+### Support for Multiple LoRAs
 ![ss3](https://github.com/user-attachments/assets/da5d0479-d97e-462c-96d3-5e78db46a89e)
 ![example_3](https://github.com/user-attachments/assets/964b8913-0e61-4e33-9213-70bac7d0689c)
